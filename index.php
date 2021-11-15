@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo 'bonjour de LeVanQuang le gros pd';
+        echo 'bonjour de LeVanQuang et de ElGuetibi';
         ?>
     </body>
 </html>
